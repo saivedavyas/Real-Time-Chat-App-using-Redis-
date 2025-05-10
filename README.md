@@ -4,7 +4,6 @@
 
 A scalable real-time chat application built using Golang, Redis, RabbitMQ, WebSockets, and JavaScript. This project demonstrates the integration of message queues and caching mechanisms to facilitate efficient and reliable communication between clients.([GitHub][1])
 
-![System Design Diagram](banner.jpeg)
 
 ## Features
 
